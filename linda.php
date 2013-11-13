@@ -1,5 +1,6 @@
 <?php
 
-echo "Sou mulher até debaixo d'água";
+echo "Ei moço não me deixe aqui.";
+echo "Sou mulher até debaixo d'água!";
 
 ?>
