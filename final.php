@@ -1,6 +1,6 @@
 <?php
 
-echo "Como vo chama?";
+echo "Como você chama? Sua linda. ";
 echo "Não parece!";
 
 ?>
