@@ -1,6 +1,6 @@
 <?php
 
 echo "Ei amigo o que leva nesse caixão?";
-echo "E quem foi o cagão?";
+echo "E q foi o cagão?";
 
 ?>
