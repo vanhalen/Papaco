@@ -1,6 +1,6 @@
 <?php
-echo "Como assim você se chama?";
-echo "Não parece né?";
 
+echo "Como vo se chama?";
+echo "Não parece!";
 
 ?>
